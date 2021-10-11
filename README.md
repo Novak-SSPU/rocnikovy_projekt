@@ -5,6 +5,6 @@ https://dratek.cz/arduino/824-eses-membranova-klavesnice-4x4-pro-jednodeskove-po
 
 https://dratek.cz/arduino/833-rfid-ctecka-s-vestavenou-antenou.html?gclid=EAIaIQobChMIpaa39pXC8wIVEKmyCh1slwQXEAQYAiABEgIn-fD_BwE - čtečka čipů na otevření branky
 
-https://dratek.cz/arduino/833-rfid-ctecka-s-vestavenou-antenou.html?gclid=EAIaIQobChMIpaa39pXC8wIVEKmyCh1slwQXEAQYAiABEgIn-fD_BwE - mikrofon a reproduktor s komunikací s lidmi u branky
+https://dratek.cz/arduino/1700-modul-nahravani-a-prehravani-zvukoveho-zaznamu-s-mikrofonem-a-reproduktorem-isd1820.html?gclid=EAIaIQobChMI8pT07JzC8wIVDM13Ch02pwRYEAQYAiABEgICKfD_BwE - mikrofon a reproduktor s komunikací s lidmi u branky
 
 https://dratek.cz/arduino/900-vga-kamera-640-x-480px.html - kamera do schránky při komunikaci
