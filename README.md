@@ -1,10 +1,8 @@
 # rocnikovy_projekt
 Ročníkový projekt Jakuba Nováka - SŠPU Opava
 
-https://dratek.cz/arduino/824-eses-membranova-klavesnice-4x4-pro-jednodeskove-pocitace.html - Klavesnice na zadávání kódu pro přístup skrz branku/bránu
+https://dratek.cz/arduino/839-hc-sr501-pohybove-cidlo-pro-jednodeskove-pocitace.html - sensor pohybu
 
-https://dratek.cz/arduino/833-rfid-ctecka-s-vestavenou-antenou.html?gclid=EAIaIQobChMIpaa39pXC8wIVEKmyCh1slwQXEAQYAiABEgIn-fD_BwE - čtečka čipů na otevření branky
+https://howtomechatronics.com/tutorials/arduino/how-pir-sensor-works-and-how-to-use-it-with-arduino/ https://www.youtube.com/watch?v=6Fdrr_1guok&ab_channel=HowToMechatronics - návody na sensor pohybu
 
-https://dratek.cz/arduino/1700-modul-nahravani-a-prehravani-zvukoveho-zaznamu-s-mikrofonem-a-reproduktorem-isd1820.html?gclid=EAIaIQobChMI8pT07JzC8wIVDM13Ch02pwRYEAQYAiABEgICKfD_BwE - mikrofon a reproduktor s komunikací s lidmi u branky
-
-https://dratek.cz/arduino/900-vga-kamera-640-x-480px.html - kamera do schránky při komunikaci
+https://dratek.cz/arduino/7700-jazyckovy-magneticky-kontakt.html - magnetický sensor
