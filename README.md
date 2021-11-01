@@ -7,3 +7,6 @@ https://howtomechatronics.com/tutorials/arduino/how-pir-sensor-works-and-how-to-
 https://www.youtube.com/watch?v=6Fdrr_1guok&ab_channel=HowToMechatronics - návody na sensor pohybu
 
 https://dratek.cz/arduino/7700-jazyckovy-magneticky-kontakt.html - magnetický sensor
+
+https://www.youtube.com/watch?v=7HR3jgthb3s&ab_channel=CytronTechnologies 
+https://www.ardumotive.com/magnetic-sw-en.html - návody na sensor
