@@ -10,3 +10,5 @@ https://dratek.cz/arduino/7700-jazyckovy-magneticky-kontakt.html - magnetický s
 
 https://www.youtube.com/watch?v=7HR3jgthb3s&ab_channel=CytronTechnologies 
 https://www.ardumotive.com/magnetic-sw-en.html - návody na sensor
+
+https://dratek.cz/arduino/1235-nodemcu-lua-esp8266-ch340-wi-fi.html 
